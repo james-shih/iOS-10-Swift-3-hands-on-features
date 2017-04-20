@@ -1,0 +1,140 @@
+{
+  "stickers" : [
+    {
+      "filename" : "ANT.sticker"
+    },
+    {
+      "filename" : "BACTRIAN CAMEL.sticker"
+    },
+    {
+      "filename" : "BEAR FACE.sticker"
+    },
+    {
+      "filename" : "BUG.sticker"
+    },
+    {
+      "filename" : "CAT FACE.sticker"
+    },
+    {
+      "filename" : "CAT.sticker"
+    },
+    {
+      "filename" : "COW FACE.sticker"
+    },
+    {
+      "filename" : "DOG FACE.sticker"
+    },
+    {
+      "filename" : "DOG POODLE.sticker"
+    },
+    {
+      "filename" : "DOG.sticker"
+    },
+    {
+      "filename" : "DOLPHIN.sticker"
+    },
+    {
+      "filename" : "DRAGON.sticker"
+    },
+    {
+      "filename" : "DROMEDARY CAMEL.sticker"
+    },
+    {
+      "filename" : "ELEPHANT.sticker"
+    },
+    {
+      "filename" : "FISH.sticker"
+    },
+    {
+      "filename" : "FROG.sticker"
+    },
+    {
+      "filename" : "FRONT FACING BABY CHICK.sticker"
+    },
+    {
+      "filename" : "GOAT.sticker"
+    },
+    {
+      "filename" : "HAMSTER.sticker"
+    },
+    {
+      "filename" : "HATCHING CHICK.sticker"
+    },
+    {
+      "filename" : "HONEYBEE.sticker"
+    },
+    {
+      "filename" : "HORSE.sticker"
+    },
+    {
+      "filename" : "KOALA FACE.sticker"
+    },
+    {
+      "filename" : "LADY BEETLE.sticker"
+    },
+    {
+      "filename" : "LEOPARD.sticker"
+    },
+    {
+      "filename" : "MONKEY.sticker"
+    },
+    {
+      "filename" : "MOUSE.sticker"
+    },
+    {
+      "filename" : "OCTOPUS.sticker"
+    },
+    {
+      "filename" : "PANDA FACE.sticker"
+    },
+    {
+      "filename" : "PAW PRINTS.sticker"
+    },
+    {
+      "filename" : "PIG NOSE.sticker"
+    },
+    {
+      "filename" : "RABBIT FACE.sticker"
+    },
+    {
+      "filename" : "RABBIT.sticker"
+    },
+    {
+      "filename" : "RAM (RANDOM ACCESS MEMORY.sticker"
+    },
+    {
+      "filename" : "ROOSTER.sticker"
+    },
+    {
+      "filename" : "SNAIL.sticker"
+    },
+    {
+      "filename" : "SPIRAL SHELL.sticker"
+    },
+    {
+      "filename" : "SPOUTING WHALE.sticker"
+    },
+    {
+      "filename" : "TIGER.sticker"
+    },
+    {
+      "filename" : "TIGRO.sticker"
+    },
+    {
+      "filename" : "TROPICAL FISH.sticker"
+    },
+    {
+      "filename" : "TURTLE.sticker"
+    },
+    {
+      "filename" : "WHALE.sticker"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "properties" : {
+    "grid-size" : "regular"
+  }
+}
